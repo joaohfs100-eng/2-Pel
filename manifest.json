@@ -1,0 +1,25 @@
+{
+  "name": "2º Pelotão: Controle e Demanda",
+  "short_name": "Controle e Demanda",
+  "description": "Central offline para controle administrativo de paraquedas, dobragens, validade, demanda e efetivo.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090b0c",
+  "theme_color": "#090b0c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./assets/controle-demanda-mark.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/controle-demanda-mark.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
