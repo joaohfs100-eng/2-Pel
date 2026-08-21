@@ -5,5 +5,5 @@
  */
 window.__SUPABASE_CONFIG__ = {
   url: "https://blheqoqhihwfsuhphfng.supabase.co",
-  anonKey: "",
+  anonKey: "sb_publishable_xB7fu9UkGJSjYcOoQRhcnQ_dUfqbx3W",
 };
