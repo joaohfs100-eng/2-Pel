@@ -1,0 +1,19 @@
+ENVIO RÁPIDO AO GITHUB
+
+1. Envie TODOS os arquivos desta pasta ao seu repositório GitHub. Esta pasta possui menos de 100 arquivos.
+2. No GitHub, abra o arquivo supabase-config.js e clique no ícone de lápis para editar.
+3. Mantenha a linha url como está e preencha somente:
+   anonKey: "COLE_A_CHAVE_ANON_PUBLICA_DO_SUPABASE"
+4. Clique em Commit changes.
+5. Em Settings > Pages, selecione a branch main e a pasta / (root).
+6. No Supabase, em Authentication > URL Configuration, cadastre a URL publicada no GitHub Pages.
+
+NUNCA use a chave service_role no arquivo supabase-config.js.
+
+SINCRONIZAÇÃO ENTRE DISPOSITIVOS
+
+1. Entre nos dois dispositivos com o MESMO e-mail e senha.
+2. No primeiro dispositivo, abra Configurações e clique em "Sincronizar com a nuvem".
+3. Aguarde a mensagem "NUVEM ATUALIZADA — DADOS ENVIADOS E RECEBIDOS".
+4. No segundo dispositivo, abra Configurações e clique em "Sincronizar com a nuvem" para receber os registros.
+5. Caso o aparelho esteja sem internet, as alterações ficam pendentes e devem ser sincronizadas ao reconectar.
